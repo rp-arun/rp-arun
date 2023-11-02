@@ -18,7 +18,67 @@
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![K8's](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) ![Redhat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) 
+
 <hr>
+<img src="https://readme-typing-svg.herokuapp.com?color=red&size=12&width=180&height=18&lines=A+little+more+about+me...;">
+
+```
+---
+- Name: Arunachalam P
+  hosts: GitHub
+  become: true
+    - Cloud platform:
+        - AWS Cloud
+        - GCP
+        - Azure
+    - Operating Systems:
+        - RedHat Linux Release 8.x
+        - Ubuntu 18.04, 20.04, 22.04
+    - Scripting Languages & Frameworks:
+        - Bash
+        - Python
+        - Typescript
+        - NestJs
+        - NodeJs   
+    - Infrastructure As a Code:
+        - Terraform
+        - Ansible
+    - Software Provisioning/Configuration Management:
+        - Ansible
+    - Source Code Management/Version Control:
+        - Git (GitHub, BitBucket, GitLab)
+    - Continuous Integration/Continuous Deployment:
+        - Jenkins
+        - GitHub Actions
+    - Containerization:
+        - Docker
+        - Kubernetes
+    - Secrets Management Tool:
+        - SOPS
+        - HashiCorp Vault
+    - Project Management Tool:
+        - Jira
+        - GitHub
+        - Asana
+    - Monitoring Tools:
+        - AWS CloudWatch
+        - Grafana, Grafana Cloud
+        - Prometheus
+        - Nagios
+    - Database:
+        - Postgres
+        - Mysql
+        - Snowflake
+        - ClickHouse
+    - Web3 & Defi:
+        - Ethereum:
+      
+    - Certifications:
+        - Certified Kubernetes Administrator (CKA)
+        - RedHat Certified System Administrator (RHCSA)
+```     
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ### ⚙️ Connect with Me
 
