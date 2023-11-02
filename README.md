@@ -1,7 +1,8 @@
-![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif)
+![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1689486594104/0883007c-df25-4d04-90f9-16a033cece42.gif)
 <h1 align="center">Hi 👋, I'm Arunachalam P</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">DevOps Specialist Managing Blockchain and Data Infrastructure</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rp-arun&label=Profile%20views&color=0e75b6&style=flat" alt="rp-arun" /> </p>
 
@@ -16,6 +17,7 @@
   
 - 📫 How to reach me **arunpmk1997@gmail.com**
 
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 
 
