@@ -105,8 +105,7 @@
 
 ### ⚙️ GitHub Analytics
 
-[![](https://github-readme-stats.vercel.app/api?username=rp-arun&show_icons=true&theme=tokyonight&hide_border=true&width=100%&locale=en)](https://github.com/rp-arun)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=rp-arun&theme=tokyonight&hide_border=true&width=100%)](https://github.com/rp-arun)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rp-arun&theme=dark&type=png)](https://git.io/streak-stats)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
