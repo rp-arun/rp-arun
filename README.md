@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **chaindeck.io, credmark.com**
 
-- 🌱 I’m currently learning **Data Engineering, NestJs, MongoDB, Azure, Go**
+- 🌱 I’m currently learning **Data Engineering, NestJs, MongoDB, Azure, Go, Chef**
 
 - 👯 I’m looking to collaborate on **DeFi, GameFi, Web3, Blockchain, Infra**
 
@@ -45,6 +45,7 @@
         - Ansible
     - Software Provisioning/Configuration Management:
         - Ansible
+        - Chef
     - Source Code Management/Version Control:
         - Git (GitHub, BitBucket, GitLab)
     - Continuous Integration/Continuous Deployment:
@@ -70,9 +71,11 @@
         - Mysql
         - Snowflake
         - ClickHouse
-    - Web3 & Defi:
+    - Web3 & Blockchain:
         - Ethereum:
-      
+            - Created and Managed Ethereum-based web3 nodes using Kubernetes (Infra).
+            - Created ETL data pipelines Extracting the data from the web3 node and loading it to databases like Postgres, and Snowflake, Clickhouse.
+            - Created a Custom data-framework library using NestJs that will take care of ELT jobs. 
     - Certifications:
         - Certified Kubernetes Administrator (CKA)
         - RedHat Certified System Administrator (RHCSA)
