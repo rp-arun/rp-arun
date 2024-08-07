@@ -1,19 +1,16 @@
 ![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1689486594104/0883007c-df25-4d04-90f9-16a033cece42.gif)
 <h1 align="center">Hi 👋, I'm Arunachalam P</h1>
-<h3 align="center">DevOps Specialist Managing Blockchain and Data Infrastructure</h3>
+<h3 align="center">DevOps Specialist Managing Infrastructure And App Mod</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rp-arun&label=Profile%20views&color=0e75b6&style=flat" alt="rp-arun" /> </p>
 
+- 🔭 K8 SWAT 🛡️⚔️ in <a href="https://iqzsystems.com"> IQZ SYSTEMS </a> 
 
-- 🔭 I’m currently working on **chaindeck.io, credmark.com**
+- 🌱 I’m currently learning **Data Engineering, Backend, Security**
 
-- 🌱 I’m currently learning **Data Engineering, NestJs, MongoDB, Azure, Go, Chef**
-
-- 👯 I’m looking to collaborate on **DeFi, GameFi, Web3, Blockchain, Infra**
-
-- 💬 Ask me about **Terraform, Kubernetes, Aws, Blockchain Infra**
+- 💬 Ask me about **Terraform, Kubernetes, Aws, Azure Blockchain Infra**
   
 - 📫 How to reach me **arunpmk1997@gmail.com**
 
@@ -101,13 +98,7 @@
 <p align="center">
 <a href="mailto:arunpmk1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/arunachalam-p-a7446b199"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://www.instagram.com/_i__arun__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/arunrp_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://wa.me/%2B919500887821?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   </a></p>
 </div>
-
-### ⚙️ GitHub Analytics
-[![](https://github-readme-stats.vercel.app/api?username=rp-arun&show_icons=true&theme=radical&hide_border=true&width=100%&locale=en)](https://github.com/rp-arun)
-[![GitHub Streak](https://github-readme-streak-stats-lime-kappa.vercel.app?user=rp-arun&theme=radical)](https://git.io/streak-stats)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
